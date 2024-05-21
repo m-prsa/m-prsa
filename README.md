@@ -14,6 +14,6 @@ My name is Milevan aka Milo, i'm 26 years old and i'm a developper from Rouen, F
   -  Frameworks: Django (learning)
   -  Tools: Git, Docker, VSCode, MacOS
 
-### Project :
+### Project :file_folder: :
   - (Early) Multi-API (provisional name): A web project built with Django that requests multiple video game APIs (Steam, Riot Games, Battle.net, Xbox, Playstation) to display user information and statistics."
   - (Future) Unity Proto : Unity Proto will consist of several small projects. The idea is to replicate various mechanics from different video games with the goal of learning Unity.
