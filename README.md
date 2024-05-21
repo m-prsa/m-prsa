@@ -1,21 +1,19 @@
-## Hello World !! :man_technologist:
+## Hello World !! :wave:
 
 My name is Milevan aka Milo, i'm 26 years old and i'm a developper from Rouen, France.
 
-# Where did i studied ? 
+### About me :man_technologist:
+  - :man_student: I studied at Zone01 Rouen Normandie, a training center with peer-learning methodology where i learned Golang and JavaScript
+  - 🌱 I’m currently learning Python (Django) and C#
+  - :magic_wand: I'm passionate and a fast learner, this make me versatile.
+  - :video_game: My long-term goal is to work in the video game industry.
 
+### Skills :computer:
 
-<!--
-**m-prsa/m-prsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  -  Languages: Golang, JavaScript, Python (learning), C# (learning)
+  -  Frameworks: Django (learning)
+  -  Tools: Git, Docker, VSCode, MacOS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project :
+  - (Early) Multi-API (provisional name): A web project built with Django that requests multiple video game APIs (Steam, Riot Games, Battle.net, Xbox, Playstation) to display user information and statistics."
+  - (Future) Unity Proto : Unity Proto will consist of several small projects. The idea is to replicate various mechanics from different video games with the goal of learning Unity.
