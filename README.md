@@ -3,14 +3,14 @@
 My name is **Milevan** aka **Milo**, i'm 26 years old and i'm a developper from Rouen, France.
 
 ### About me :man_technologist:
-  - :man_student: I studied at **Zone01 Rouen Normandie**, a training center with peer-learning methodology where i learned **Golang** and **JavaScript**
+  - :man_student: I studied at **Zone01 Rouen Normandie**, a training center with peer-learning methodology where i learned **Golang**, **JavaScript** and **Flutter**
   - 🌱 I’m currently learning **Python (Django)** and **C#**
   - :magic_wand: I'm passionate and a fast learner, this make me **versatile**.
   - :video_game: My long-term goal is to work in the **video game industry**.
 
 ### Skills :computer:
 
-  -  Languages: Golang, JavaScript, **Python** (learning), **C#** (learning)
+  -  Languages: Golang, JavaScript, **Python** (learning), Flutter (learning), **C#** (learning)
   -  Frameworks: **Django** (learning)
   -  Tools: Git, Docker, VSCode, MacOS
 
